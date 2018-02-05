@@ -10,5 +10,7 @@ package com.project.wherethetrash.model;
  * @author jidapa_sikaphan
  */
 public class ConnectionBuilder {
-    
+    public static void main(String[] args) {
+        System.out.println("Hello");
+    }
 }
